@@ -1,0 +1,16 @@
+from AttackEffects import *
+
+CONFIRM_BONUS = 0
+
+NONCRITICAL_PENALTY = 0
+
+ATTACK_BONUS = 11
+
+PRECISION_BONUS = 3
+
+DAMAGE_BONUS = 1
+
+WEAPON_DAMAGE = "d8"
+
+
+EFFECTS = [Shock()]

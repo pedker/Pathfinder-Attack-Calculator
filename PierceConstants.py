@@ -1,0 +1,16 @@
+from AttackEffects import *
+
+CONFIRM_BONUS = 0
+
+NONCRITICAL_PENALTY = 0
+
+ATTACK_BONUS = 41
+
+PRECISION_BONUS = 30
+
+DAMAGE_BONUS = 16
+
+WEAPON_DAMAGE = "d6"
+
+
+EFFECTS = []
